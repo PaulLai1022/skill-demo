@@ -3,7 +3,7 @@ import org.junit.*;
 
 public class skillDemoTest {
     @Test
-    public void substraction() {
-        assertEquals(2, skillDemo.substraction(2,1));
+    public void addition() {
+        assertEquals(2, skillDemo.substraction(1, 0));
     }
 }

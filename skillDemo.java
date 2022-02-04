@@ -1,5 +1,5 @@
-public static class skillDemo{
-    public int substraction(int a, int b)
+public class skillDemo{
+    public static int substraction(int a, int b)
     {
         return a-b;
     }
